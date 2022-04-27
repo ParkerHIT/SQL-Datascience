@@ -14,3 +14,17 @@ Please append a semicolon ";" at the end of the query and enter your query in a 
 SELECT * 
 FROM CITY 
 WHERE COUNTRYCODE = 'USA' AND POPULATION >100000
+
+Your Output (stdout)
+3878 Scottsdale USA Arizona 202705
+3965 Corona USA California 124966
+3973 Concord USA California 121780
+3977 Cedar Rapids USA Iowa 120758
+3982 Coral Springs USA Florida 117549
+
+Expected Output 
+3878 Scottsdale USA Arizona 202705 
+3965 Corona USA California 124966 
+3973 Concord USA California 121780 
+3977 Cedar Rapids USA Iowa 120758 
+3982 Coral Springs USA Florida 117549 
