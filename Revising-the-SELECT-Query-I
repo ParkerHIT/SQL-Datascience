@@ -1,6 +1,9 @@
-Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.
+Problem Statement:
 
-The CITY table is described as follows:
+https://hackerrank-challenge-pdfs.s3.amazonaws.com/12466-revising-the-select-query-English?
+AWSAccessKeyId=AKIAR6O7GJNX5DNFO3PV&Expires=1651101256&Signature=rCTnMeNqGPlPDjuNokEK8lmbe9o%3D&
+response-content-disposition=inline%3B%20filename%3Drevising-the-select-query-English.pdf&response-content-type=application%2Fpdf
+
 
 
 /*
