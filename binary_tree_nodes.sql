@@ -1,12 +1,10 @@
+/*
+
 Medium (SQL Intermediate)
 
 Problem Statement:
 https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true
 
-/*
-Enter your query here.
-Please append a semicolon ";" at the end of the query 
-and enter your query in a single line to avoid error.
 */
 
 
