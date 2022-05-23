@@ -1,4 +1,10 @@
-/* Prime Number Generation Using a Table*/
+/* Medium (SQL Advanced)
+
+Prime Number Generation Using a Table
+
+Problem Statement : https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true
+
+*/
 
 DECLARE @row int = 3;
 DECLARE @max int = 1000;
