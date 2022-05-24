@@ -1,4 +1,6 @@
-join -- Difficulty Medium ( SQL Intermediate)
+/*
+
+ADVANCED JOIN -- Difficulty Medium ( SQL Intermediate)
 
 Problem Statement: https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true
 
