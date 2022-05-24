@@ -1,6 +1,8 @@
-join -- Difficulty Medium ( SQL Intermediate)
+/*
+ADVANCED JOIN -- Difficulty Medium ( SQL Intermediate)
 
 Problem Statement: https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true
+*/
 
 SELECT S.NAME FROM STUDENTS S
     FULL OUTER JOIN FRIENDS F ON S.ID = F.ID
