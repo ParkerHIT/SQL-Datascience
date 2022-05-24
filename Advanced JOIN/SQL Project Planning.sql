@@ -1,4 +1,5 @@
-join -- Difficulty Medium ( SQL Intermediate)
+/*
+ADVANCED JOIN -- Difficulty Medium ( SQL Intermediate)
 
 Problem Statement: https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true
 
