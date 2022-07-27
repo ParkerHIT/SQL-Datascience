@@ -1,6 +1,4 @@
 # HackerRank--SQL
-https://www.hackerrank.com/domains/sql
-
 
 https://www.hackerrank.com/certificates/32111cff865b -- Advanced SQL Certificate. It covers topics like query optimization, data modeling, Indexing, window functions, and pivots in SQL.
 
