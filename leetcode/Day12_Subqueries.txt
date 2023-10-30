@@ -1,0 +1,15 @@
+#577. Employee Bonus
+
+
+#https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50
+# Write your MySQL query statement below
+
+
+
+SELECT * FROM (
+SELECT e.name, b.bonus
+from Employee e
+LEFT JOIN Bonus b
+on e.empId = b.empId) t
+WHERE t.bonus <1000 or t.bonus is null
+
